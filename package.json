@@ -1,6 +1,6 @@
 {
     "name": "@mclhomeplaza/uhml-builder",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "UHML Builder - 编译 UHMLX 文件为 XAML",
     "main": "dist/index.js",
     "type": "module",
