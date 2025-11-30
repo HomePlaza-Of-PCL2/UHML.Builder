@@ -18,10 +18,10 @@
     "license": "Apache-2.0",
     "packageManager": "pnpm@10.23.0",
     "devDependencies": {
-        "tsx": "^4.20.6",
-        "typescript": "^5.9.3"
+        "tsx": "^4.20.6"
     },
     "dependencies": {
+        "typescript": "^5.9.3",
         "@types/node": "^24.10.1",
         "commander": "^14.0.2"
     }
