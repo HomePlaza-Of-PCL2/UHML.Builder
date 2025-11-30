@@ -1,5 +1,5 @@
 {
-    "name": "@mclhomeplaza/uhmlbuilder",
+    "name": "@mclhomeplaza/uhml-builder",
     "version": "1.0.2",
     "description": "UHML Builder - 编译 UHMLX 文件为 XAML",
     "main": "dist/index.js",
